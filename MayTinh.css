@@ -1,0 +1,48 @@
+form {
+    margin: 25px auto;
+    padding: 2px;
+    border: 1px solid black;
+    width: 367px;
+}
+
+.mb-3 {
+    width: 200px;
+}
+
+.row {
+    text-align: center;
+    background-color: gray;
+    font-size: 30px;
+}
+
+.container {
+    width: 500px;
+}
+
+.btn-outline-primary {
+    margin: 2px;
+    width: 89px;
+   
+}
+
+
+.input {
+    width: 100%;
+    font-size: 30px;
+    border: 2px solid;
+    background-color: rgb(116, 116, 114);
+    color: white;
+    
+}
+
+div.col2 {
+    border: 1px solid black;
+    margin: 2px;
+    width: 177px;
+   
+}
+
+.txt {
+    font-size: 50px;
+    color:red;
+}
